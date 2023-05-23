@@ -1,0 +1,12 @@
+{
+  "name": "tutorial-dave_gray-node-read_write_files",
+  "version": "1.0.0",
+  "description": "Tutorial about reading and writing files with Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Out-A-Time",
+  "license": "ISC"
+}
